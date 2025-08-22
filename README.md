@@ -94,7 +94,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👤 Contato
 
 - **Roberto Junnyo** – [LinkedIn](https://www.linkedin.com/in/robertojunnyo/) | [GitHub](https://github.com/JunnyoDev) | [Instagram](https://www.instagram.com/robertojunnyo/)
-- **E-mail:** roberto.junnyo@gmail.com
+- **E-mail:** junnyo.wenceslau8@gmail.com
 
 ---
 

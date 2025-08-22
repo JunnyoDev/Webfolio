@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Next.js logo">
+  <!-- círculo de fundo -->
+  <circle cx="50" cy="50" r="48" fill="black"></circle>
+  <!-- N estilizado -->
+  <path d="M30 70 V30 L70 70 V30" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>
